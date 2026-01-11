@@ -57,6 +57,13 @@ Nothing complicated here:
 - Install dependencies: `pip install -r requirements.txt`
 - Run the bot: `python bot.py`
 
+```python
+TG_BOT_TOKEN = 'YOUR_TOKEN'
+YANDEX_PASSPORT_O_AUTH_TOKEN = 'YOUR_TOKEN'
+MODEL_URI = 'YOUR_URI'
+```
+
+
 ## Launch with Your Own docx File
 
 This requires a few additional steps:
