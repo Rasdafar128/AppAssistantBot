@@ -29,7 +29,7 @@ LLC "Sila", created as part of the hackathon **Digital Breakthrough, Season: Art
 
 # Architecture
 
-![image](https://github.com/user-attachments/assets/51ba690b-7d09-45e9-aa38-bd03cd68ac35)
+![image](https://github.com/user-attachments/assets/069e2435-fa32-41bd-86d7-2d4e692c71d6)
 
 # Project Structure
 
